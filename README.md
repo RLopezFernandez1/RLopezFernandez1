@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Rodrigo Lopez Fernandez  
-### 💻 Backend Developer | NestJS | TypeScript | Node.js  
+### 💻 Full Stack Developer | Backend Developer | Javascript | TypeScript | Node.js | NestJS | Express | PostgreSQL
 
 Soy un desarrollador backend con experiencia en **NestJS, TypeScript, Node.js y bases de datos relacionales**. Me interesa crear soluciones escalables y eficientes, siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.  
 
