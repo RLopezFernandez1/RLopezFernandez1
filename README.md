@@ -19,7 +19,7 @@ Soy un desarrollador backend con experiencia en **NestJS, TypeScript, Node.js y 
 
 ## 📫 Contacto  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-lopez-fernandez-2448291b7)  
-📧 [Email](mailto:rodrigolopez010l@gmail.com)  
+🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-lopez-fernandez-2448291b7  
+📧 Email: rodrigolopez010@gmail.com  
 
 ---
